@@ -9,7 +9,7 @@ const arr2 = [122231,12231123,122121221,1111];
         alert("arr2 больше чем arr")
     }else{
         alert("они равны")
-    }
+        }
 
 const color =prompt("выбери цвет:красный,желтый,зеленый")
 switch (color) {
